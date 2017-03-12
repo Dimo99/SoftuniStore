@@ -1,0 +1,8 @@
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\Dimo\Desktop\Exam\Exam\Exam\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
